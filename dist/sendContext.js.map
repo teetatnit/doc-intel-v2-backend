@@ -1,0 +1,1 @@
+{"version":3,"file":"sendContext.js","sourceRoot":"","sources":["../src/sendContext.ts"],"names":[],"mappings":";;;;;;;;;;;;IACA,mDAAqC;IACrC,+BAAkC;IAMlC;QAiBI,qBAAY,OAAU;YAClB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;YAEvB,IAAI,CAAC,SAAS,GAAG,sBAAI,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE,CAAC;YAC1C,IAAI,CAAC,IAAI,GAAG,WAAI,EAAE,CAAC;QACvB,CAAC;QACL,kBAAC;IAAD,CAAC,AAvBD,IAuBC;IAvBY,kCAAW"}
