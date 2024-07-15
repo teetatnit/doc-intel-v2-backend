@@ -9,8 +9,6 @@
 ### Run By cmd / PowerShell / Bash
 
 ```bash
-$ git clone https://chemdevgl.southeastasia.cloudapp.azure.com/DI/di-backend.git
-$ cd di-backend
 $ npm install
 $ npm start         # visit http://localhost:3000
 ```
